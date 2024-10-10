@@ -21,14 +21,14 @@ const Page = () => {
         <View className="flex-1">
             <AppGradient
                 // Background Linear Gradient
-                colors={["#84343c", "#000000", "#f88934"]}
+                colors={["#77CDFF", "#B7E0FF", "#77CDFF"]}
             >
                 <View className="mb-6">
                     <Text className="text-white-200 mb-3 font-bold text-4xl text-left">
-                        Welcome Soumil
+                        Welcome, Soumil !
                     </Text>
                     <Text className="text-white-100 text-xl font-medium">
-                        Start your meditation practice today
+                        Start your meditation practice today.
                     </Text>
                 </View>
                 <View>
@@ -53,7 +53,8 @@ const Page = () => {
                                        
                                         colors={[
                                             "transparent",
-                                            "#ffffff",
+                                            "#FFFBF5"
+                                            
                                         ]}
                                         style={styles.gradient}
                                     >
