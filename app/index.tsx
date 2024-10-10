@@ -25,7 +25,7 @@ const App = () => {
             >
                 <AppGradient
                     // Background Linear Gradient
-                    colors={["rgba(0,1,0,0.6)", "rgba(0,2,0,0.3)"]}
+                    colors={["rgba(0,0,0,0.2)", "rgba(0,0,0,0.2)"]}
                 >
                     <SafeAreaView className="flex flex-1 px-1 justify-between">
                         <Animated.View
