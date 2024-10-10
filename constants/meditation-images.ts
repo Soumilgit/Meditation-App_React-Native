@@ -1,15 +1,15 @@
-import treeImage from "@/assets/meditation-images/trees.webp";
-import meditatingUnderTree from "@/assets/meditation-images/meditate-under-tree.webp";
-import riverImage from "@/assets/meditation-images/river.webp";
-import beachImage from "@/assets/meditation-images/beach.webp";
-import yosemiteStars from "@/assets/meditation-images/yosemite-stars.webp";
-import waterfall from "@/assets/meditation-images/waterfall.webp";
+import im1 from "@/assets/meditation-images/im1.webp";
+import im2 from "@/assets/meditation-images/im2.webp";
+import im3 from "@/assets/meditation-images/im3.webp";
+import beach from "@/assets/meditation-images/beach.webp";
+import im5 from "@/assets/meditation-images/im5.webp";
+import im6 from "@/assets/meditation-images/im6.webp";
 
 export default [
-    treeImage,
-    riverImage,
-    meditatingUnderTree,
-    beachImage,
-    yosemiteStars,
-    waterfall,
+    im1,
+    im2,
+    im3,
+    beach,
+    im5,
+    im6,
 ];
