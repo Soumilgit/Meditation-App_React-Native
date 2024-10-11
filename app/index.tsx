@@ -29,10 +29,10 @@ const App = () => {
                 >
                     <SafeAreaView className="flex flex-1 px-1 justify-between">
                         <Animated.View
-                            entering={FadeInDown.delay(300)
+                            entering={FadeInDown.delay(90)
                                 .mass(0.5)
-                                .stiffness(80)
-                                .springify(20)}
+                                .stiffness(60)
+                                .springify(15)}
                         >
                             <Text className="text-center text-black font-bold text-4xl">
                                 Simple Meditation
@@ -43,10 +43,10 @@ const App = () => {
                         </Animated.View>
 
                         <Animated.View
-                            entering={FadeInDown.delay(300)
+                            entering={FadeInDown.delay(90)
                                 .mass(0.5)
-                                .stiffness(80)
-                                .springify(20)}
+                                .stiffness(60)
+                                .springify(15)}
                         >
                             <CustomButton
                                 onPress={() => router.push("/nature-meditate")}
