@@ -43,12 +43,14 @@ const AffirmationPractice = () => {
     }, []);
 
     return (
-        <View className="flex-1">
+        <View className="flex-1"
+>
             <ImageBackground
-                source={affirmation?.image}
-                resizeMode="cover"
-                className="flex-1"
-            >
+  source={affirmation?.image}
+  resizeMode="cover"
+  className="flex-1"
+  style={{ width: '100%', height: '100%' }}
+>
                 <AppGradient colors={["rgba(0,0,0,0.3)", "rgba(0,0,0,0.9)"]}>
                     <Pressable
                         onPress={() => router.back()}
