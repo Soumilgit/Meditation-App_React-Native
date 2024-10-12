@@ -117,12 +117,12 @@ const Page = () => {
                         <CustomButton
                             title="Adjust duration"
                             onPress={handleAdjustDuration}
-                            containerStyles="custom-button-white custom-margin-bottom"
+                            containerStyles="mt-4"
                         />
                         <CustomButton
                             title={isMeditating ? "Stop" : "Start Meditation"}
                             onPress={toggleMeditationSessionStatus}
-                            containerStyles="custom-button-white custom-margin-bottom"
+                            containerStyles="mt-4"
                         />
                     </View>
                 </AppGradient>
