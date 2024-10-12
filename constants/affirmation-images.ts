@@ -11,7 +11,7 @@ import img14 from "@/assets/affirmation-images/img14.webp";
 import img21 from "@/assets/affirmation-images/img21.webp";
 import img22 from "@/assets/affirmation-images/img22.webp";
 import img23 from "@/assets/affirmation-images/img23.png";
-import img24 from "@/assets/affirmation-images/img24.webp";
+import img24 from "@/assets/affirmation-images/img24.jpg";
 
 
 
