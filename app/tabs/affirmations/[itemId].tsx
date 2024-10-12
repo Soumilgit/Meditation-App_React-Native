@@ -46,7 +46,7 @@ const AffirmationPractice = () => {
         <View className="flex-1">
             <ImageBackground
                 source={affirmation?.image}
-                resizeMode="cover"
+                resizeMode="contain"
                 className="flex-1"
             >
                 <AppGradient colors={["rgba(0,0,0,0.3)", "rgba(0,0,0,0.9)"]}>
