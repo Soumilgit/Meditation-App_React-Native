@@ -7,22 +7,22 @@ A simple Meditation App made using React Native. Tech Stack:
      <br>5.JavaScript</br>
   
 </p>
-#Quick Start
+## Quick Start
 Cloning the Repository
-'''
+```
 git clone https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native.git
 cd simple-meditation-app-expo-react-native
-'''
+```
 Installation
 
 Install the project dependencies using npm:
-'''
+```
 npm install
-'''
+```
 Running the Project
-'''
+```
 npx expo start
-'''
+```
 Expo Go
 
 Download the Expo Go app onto your device, then use it to scan the QR code from Terminal and run.
