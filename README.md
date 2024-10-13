@@ -1,38 +1,51 @@
-A simple Meditation App made using React Native. Tech Stack:
-<p>
-  <br>1.React Native</br>
-   <br>2.Native Wind</br>
-    <br>3.TypeScript</br>
-     <br>4.Expo</br>
-     <br>5.JavaScript</br>
-  
-</p>
+# Simple Meditation App Made Using React Native
+
+## Tech Stack
+
+### Technologies Used:
+- React Native
+- NativeWind
+- TypeScript
+- Expo
+- JavaScript
+
 ## Quick Start
-Cloning the Repository
-```
-git clone https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native.git
-```
-```
-cd simple-meditation-app-expo-react-native
-```
-Installation
+
+### Cloning the Repository
+
+bash git clone https://github.com/Soumilgit/Meditation-App_React-Native.git
+
+
+### Installation
+
+Navigate to the project directory:
+
+bash cd simple-meditation-app-expo-react-native
+
 
 Install the project dependencies using npm:
-```
-npm install
-```
-Running the Project
-```
-npx expo start
-```
-Expo Go
 
-Download the Expo Go app onto your device, then use it to scan the QR code from Terminal and run.
+bash npm install
 
-iOS Simulator
 
-Navigate to the Expo documentation to learn how to install and run your application on an iOS Simulator for local development.
+### Running the Project
 
-Android Emulator
+Start the development server:
 
-Navigate to the Expo documentation to learn how to install and run your application on an Android Emulator for local development.
+bash npx expo start
+
+
+## Deployment Options
+
+### Expo Go
+
+- Download the Expo Go app onto your device
+- Scan the QR code from the terminal to run the app
+
+### iOS Simulator
+
+- Navigate to the Expo documentation for instructions on setting up and running the app on an iOS Simulator for local development
+
+### Android Emulator
+
+- Navigate to the Expo documentation for instructions on setting up and running the app on an Android Emulator for local development
