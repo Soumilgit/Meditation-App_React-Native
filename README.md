@@ -11,6 +11,8 @@ A simple Meditation App made using React Native. Tech Stack:
 Cloning the Repository
 ```
 git clone https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native.git
+```
+```
 cd simple-meditation-app-expo-react-native
 ```
 Installation
