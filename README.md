@@ -12,29 +12,30 @@
 ## Quick Start
 
 ### Cloning the Repository
-
-bash git clone https://github.com/Soumilgit/Meditation-App_React-Native.git
-
+```
+git clone https://github.com/Soumilgit/Meditation-App_React-Native.git
+cd simple-meditation-app-expo-react-native
+```
 
 ### Installation
 
 Navigate to the project directory:
-
+```
 bash cd simple-meditation-app-expo-react-native
-
+```
 
 Install the project dependencies using npm:
-
-bash npm install
-
+```
+npm install
+```
 
 ### Running the Project
 
 Start the development server:
+```
+npx expo start --tunnel
 
-bash npx expo start
-
-
+```
 ## Deployment Options
 
 ### Expo Go
