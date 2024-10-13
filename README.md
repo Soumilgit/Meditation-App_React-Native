@@ -21,7 +21,7 @@ cd simple-meditation-app-expo-react-native
 
 Navigate to the project directory:
 ```
-bash cd simple-meditation-app-expo-react-native
+cd simple-meditation-app-expo-react-native
 ```
 
 Install the project dependencies using npm:
