@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-### Technologies Used:
+### Technologies Used :
 - React Native
 - NativeWind
 - TypeScript
