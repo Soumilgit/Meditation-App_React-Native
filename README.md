@@ -1,4 +1,6 @@
 # Simple Meditation App Made Using React Native
+## Component Architecture
+![image](https://github.com/user-attachments/assets/df0a660d-c3ff-4702-b6f3-b5100334ea07)
 
 ## Tech Stack
 
